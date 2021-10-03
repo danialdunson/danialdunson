@@ -15,7 +15,7 @@ My name is Danial and I am an Electrical & Computer Engineer from the University
 </p>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Danial%20Dunson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danialdunson/)
+[![Linkedin](https://img.shields.io/badge/-Danial%20Dunson-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/danial-dunson/)
 
 ### Programming Languages
 
