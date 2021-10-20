@@ -39,7 +39,7 @@ My name is Danial and I am an Electrical & Computer Engineer from the University
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
 <!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=danialdunson&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=danialdunson&style=flat) -->
 
 <!-- ### Contact
 ![](https://dcbadge.vercel.app/api/shield/410659937069301761) -->
