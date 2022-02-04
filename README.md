@@ -27,14 +27,12 @@ My name is Danial and I am an Electrical & Computer Engineer from the University
 
 ### Tools
 
-<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="Spyder" alt="Spyder" width="50px" src="SPYDER.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|<img title="ECLIPSE" alt="ECLIPSE" width="50px" src="ECLIPSE.png" />
+<img title="Visual Studio" alt="Visual Studio" width="50px" src="VSCODE.png" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />|<img title="GitBash" alt="GitBash" width="50px" src="BASH.png" />|[<img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />](CSWA_ddunson_ufl_edu.pdf)|
 |---|---|---|---|
 
 <img title="Microchip Studio" alt="Microchip Studio" width="50px" src="MICROCHIP.png" />|<img title="Digilent" alt="Digilent" width="50px" src="DIGILENT.png" />|<img title="Waveforms" alt="Waveforms" width="50px" src="WAVEFORMS.png" />|<img title="HiPerGator3.0" alt="HiPerGator3.0" width="50px" src="HIPERGATOR3.png" />
 |---|---|---|---|
 
-<img title="Solid Works" alt="Solid Works" width="50px" src="SOLIDWORKS.png" />|<img title="AutoCAD" alt="AutoCAD" width="50px" src="AUTOCAD.png" />|<img title="LTSpice" alt="LTSpice" width="50px" src="LTSPICE.png" />|
-|---|---|---|
 
 <!-- <img title="PyCharm" alt="PyCharm" width="50px" src="PYCHARM.png" /> -->
 
