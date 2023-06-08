@@ -1,8 +1,8 @@
 <!-- Greeting -->
-# Howdy!
+# Hi!
 
 <!--Introduction -->
-My name is Danial and I am an Electrical & Computer Engineer from the University of Florida
+Lets Automate the world.
 <br>
 
 <p> <!-- GitHub README Stats -->
